@@ -1,0 +1,3 @@
+Sitemap: https://khandhediyaparth.netlify.app/sitemap.xml
+User-agent: *
+Allow: /
